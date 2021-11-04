@@ -3,3 +3,5 @@ console.log("azeb");
 /*Multi-line comment*/ 
 console.log("cake");
 console.log('abebe');
+/**/ 
+console.log(typeOf('2'));
