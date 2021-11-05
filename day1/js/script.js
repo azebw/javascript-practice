@@ -4,4 +4,4 @@ console.log("azeb");
 console.log("cake");
 console.log('abebe');
 /**/ 
-console.log(typeOf('2'));
+console.log(typeof('2'));
